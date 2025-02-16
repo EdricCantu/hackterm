@@ -1,0 +1,14 @@
+niches:
+  mobile:
+    android:
+    ios:
+  desktop:
+    windows:
+    linux:
+    macos:
+  web
+  video
+  audio
+  virtualization
+  hardware
+  
