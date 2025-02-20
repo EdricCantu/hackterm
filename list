@@ -118,8 +118,8 @@ Visual Studio
 Visual Studio Code
 Vue.js
 Vulkan
-Wayland
-WebAssembly
+Wayland (
+WebAssembly (programming language
 Wide Area Network
 Windows
 X11
@@ -136,7 +136,7 @@ gas
 gcc
 high level programming
 iOS
-intel
+Intel (Company)
 jailbreak
 ld
 llvm
@@ -153,3 +153,16 @@ v12n
 vi
 x64
 x86
+BSD
+SUSE
+XNU
+Darwin
+Software Development Kit
+Integrated Development Environment 
+maven
+gradle
+SDKMan
+DHCP
+User Datagram Protocol
+Quick UDP Internet Connections
+Transmission Control Protocol
