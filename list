@@ -1,67 +1,114 @@
 .NET
 64-bit
+AMD (company)
 ASP
+American National Standards Institute
 Android
 Android Debug Bridge
 Android Open Source Project
 Android Studio
+Apple
 Assembly
+Asus
+Bill Gates (person)
 Bus
 C
 C#
 C++
 Central Processing Unit
 Computer Science
+DebConf
+Debian
 Deno.js
+Direct2D
+Direct3D
+DirectX
+Domain Name System
+FTP
 Fedora
 Flash Media
 GNU/Linux
 Generic System Image
 Go
+Google
 Graphics Processing Unit
+HTTP
 Human Interface Device
 IP Address
+Institute of Electrical and Electronics Engineers
 Instruction Set Architecture
+Intel
 IntelliJ
+International Electrotechnical Commision
+International Organization for Standardization
+Internet Engineering Task Force
 Java
 Java Development Kit
 Java Runtime Environment
 Java Virtual Machine
 JavaScript
+Jeff Bezos (person)
 Kotlin
+Linus Torvalds (person)
 Linux
 Linux Distribution
 Linux Distro
 Linux Mint
+Local Area Network
 MAC adress
 MacOS
+Mark Zuckerberg (person)
+Meta (company)
+Metal (MacOS)
+Metropolitan Area Network
 Microprocessor without Interlocked Pipelined Stages
+Microsoft (notable companies
 Microsoft Visual C++
+NAS
+NVidia (company)
+Natuonal Institute for Standards and Technology
 NeoVIM
 Neural Processinf Unit
 Next.js
+Nintendo
 Node.js
 Nuxt.js
 Objective C
+OpenGL
 Optical Media
 PCI
 PCIe
+PNY (company)
+Personal Area Network
+Plug and Play
 Power Supply Unit
 Processor
 Pulse Width Modulation
 Qemu
+Qualcomm
 RISC V
+Radioshack (companiy)
 Raspberry Pi
 React.js
-RedHat
+RedHat (company)
 RedHat Enterprise Linux
 RedHat Linux
 Reduced Instruction Set Computer
+Request for Comment  (docs)
+SSH
+Samsung (company)
 Scalable Processor Architecture
+Seagate
 Serial
+Snapdragon
+Sony
+
+Steve Jobs (person)
+Taiwan Semiconductor Manufacturing Company (company)
 Trusted Platform Module
 USB
 Ubuntu
+Universal Plug And Play
 Usb C
 VIM
 Virtual Machine
@@ -70,11 +117,12 @@ Visual Basic
 Visual Studio
 Visual Studio Code
 Vue.js
+Vulkan
 Wayland
 WebAssembly
+Wide Area Network
 Windows
 X11
-amd
 asm
 clang
 debug
@@ -95,6 +143,7 @@ llvm
 low level programming
 masm
 modeling language
+multicast Domain Name System
 nasm
 port
 root
