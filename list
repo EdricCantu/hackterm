@@ -1,30 +1,42 @@
 .NET
 64-bit
 AMD (company)
-ASP
-American National Standards Institute
-Android
-Android Debug Bridge
-Android Open Source Project
+ASP 
+American National Standards Institute (standards organization)
+  < ANSI
+Android (Operating System)
+  < AOSP
+  < Android Open Source Project
+Android Debug Bridge (Debugger)
+  < ADB
+GNU Debugger (Debugger)
+  < GDB
 Android Studio
 Apple
 Assembly
+  < ASM
 Asus
 Bill Gates (person)
 Bus
 C
 C#
+  < CS
 C++
+  < CPP
 Central Processing Unit
+  < CPU
 Computer Science
+  < CS
 DebConf
 Debian
 Deno.js
 Direct2D
 Direct3D
 DirectX
-Domain Name System
-FTP
+Domain Name System (Protocol)
+  < DNS
+File Transfer Protocol (Protocol
+  < FTP
 Fedora
 Flash Media
 GNU/Linux
@@ -32,23 +44,41 @@ Generic System Image
 Go
 Google
 Graphics Processing Unit
-HTTP
+  < GPU
+Hypertext Transfer Protocol
+  < HTTP  
 Human Interface Device
-IP Address
+  < HID
+Internet Protocol Address
+  < IP
 Institute of Electrical and Electronics Engineers
+  < IEEE
 Instruction Set Architecture
+  < ISA
 Intel
 IntelliJ
 International Electrotechnical Commision
+  < IEC
 International Organization for Standardization
+  < ISO
 Internet Engineering Task Force
+  < IETF
 Java
 Java Development Kit
+  < JDK
 Java Runtime Environment
+  < JRE
 Java Virtual Machine
+  < JVM
 JavaScript
+  < JS
+TypeScript
+  < TS
+ECMAScript
+  < ECMA
 Jeff Bezos (person)
 Kotlin
+  < KT
 Linus Torvalds (person)
 Linux
 Linux Distribution
@@ -56,94 +86,119 @@ Linux Distro
 Linux Mint
 Local Area Network
 MAC adress
+  < MAC
 MacOS
 Mark Zuckerberg (person)
 Meta (company)
 Metal (MacOS)
 Metropolitan Area Network
+  < MAN
 Microprocessor without Interlocked Pipelined Stages
+  < MIPS
 Microsoft (notable companies
+  < MS
+  < MSFT
 Microsoft Visual C++
 NAS
 NVidia (company)
 Natuonal Institute for Standards and Technology
+  < NIST
 NeoVIM
-Neural Processinf Unit
+Neural Processing Unit
+Artificial Intelligence (Concept)
 Next.js
 Nintendo
 Node.js
+  < Node
+  < Nodejs
 Nuxt.js
+ 　< Nuxt
 Objective C
 OpenGL
 Optical Media
 PCI
 PCIe
 PNY (company)
-Personal Area Network
+Personal Area Network (Concept)
+  < PAN
 Plug and Play
-Power Supply Unit
-Processor
-Pulse Width Modulation
+  < PnP
+Power Supply Unit 
+  < PSU
+Processor 
+Pulse Width Modulation (Concept / Process)
+  < PWM
 Qemu
 Qualcomm
 RISC V
-Radioshack (companiy)
+Radioshack (company)
 Raspberry Pi
+  < RPi
 React.js
 RedHat (company)
 RedHat Enterprise Linux
+  < RHEL
 RedHat Linux
 Reduced Instruction Set Computer
+  < RISC
 Request for Comment  (docs)
-SSH
+  < RFC
+Secure Shell (Protocol)
+  < SSH
 Samsung (company)
 Scalable Processor Architecture
-Seagate
+  < SPARC
+Seagate (Company)
 Serial
-Snapdragon
-Sony
+Sony (Company)
 
 Steve Jobs (person)
 Taiwan Semiconductor Manufacturing Company (company)
 Trusted Platform Module
 USB
-Ubuntu
+Ubuntu (Operating System)
 Universal Plug And Play
+  < uPnP
 Usb C
 VIM
 Virtual Machine
+  < VM
 Virtualization
+  < v12n
+  < virt
 Visual Basic
+  < VB
 Visual Studio
+  < VS
 Visual Studio Code
+  < VS Code
 Vue.js
+  < VB
 Vulkan
-Wayland (
-WebAssembly (programming language
-Wide Area Network
-Windows
-X11
-asm
+Wayland (protocol)
+WebAssembly (programming language)
+Wide Area Network (Concept)
+Windows (Operating System
+X11 (Protocol)
 clang
-debug
-debugger
-debugging
+debug (concept/process)
 ethernet
 fasm
 fastboot
 g++
 gas
 gcc
-high level programming
+high level programming (concept)
 iOS
 Intel (Company)
-jailbreak
+jailbreak (concept/process)
 ld
 llvm
-low level programming
+low level programming (concept)
 masm
-modeling language
+modeling language (concept)
 multicast Domain Name System
+  < mDNS
 nasm
 port
 root
@@ -153,16 +208,20 @@ v12n
 vi
 x64
 x86
-BSD
-SUSE
-XNU
-Darwin
+BSD (Operating System)
+SuSE (Operating System)
+XNU (Operating System)
+Darwin (Operating System)
 Software Development Kit
 Integrated Development Environment 
-maven
+maven (code repository)
 gradle
 SDKMan
-DHCP
+Dynamic Host Configuration Protocol
+  < DHCP
 User Datagram Protocol
+  < UDP
 Quick UDP Internet Connections
+  < QUIC
 Transmission Control Protocol
+  < TCP
