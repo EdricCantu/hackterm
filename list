@@ -8,9 +8,9 @@ Android (Operating System)
   < AOSP
   < Android Open Source Project
 Android Debug Bridge (Debugger)
-  < ADB
+  << ADB
 GNU Debugger (Debugger)
-  < GDB
+  << GDB
 Android Studio
 Apple
 Assembly
@@ -27,12 +27,16 @@ Central Processing Unit
   < CPU
 Computer Science
   < CS
+Dandified YUM
+  << DNF
 DebConf
 Debian
 Deno.js
 Direct2D
 Direct3D
 DirectX
+DXVK
+  <( DirectX to Vulkan
 Domain Name System (Protocol)
   < DNS
 File Transfer Protocol (Protocol
@@ -41,16 +45,18 @@ Fedora
 Flash Media
 GNU/Linux
 Generic System Image
+  < GSI
 Go
 Google
 Graphics Processing Unit
-  < GPU
+  << GPU
 Hypertext Transfer Protocol
-  < HTTP  
+  << HTTP  
 Human Interface Device
-  < HID
+  << HID
 Internet Protocol Address
   < IP
+  << IP Address
 Institute of Electrical and Electronics Engineers
   < IEEE
 Instruction Set Architecture
@@ -65,11 +71,11 @@ Internet Engineering Task Force
   < IETF
 Java
 Java Development Kit
-  < JDK
+  << JDK
 Java Runtime Environment
-  < JRE
+  << JRE
 Java Virtual Machine
-  < JVM
+  << JVM
 JavaScript
   < JS
 TypeScript
@@ -85,7 +91,7 @@ Linux Distribution
 Linux Distro
 Linux Mint
 Local Area Network
-MAC adress
+MAC address
   < MAC
 MacOS
 Mark Zuckerberg (person)
@@ -94,7 +100,7 @@ Metal (MacOS)
 Metropolitan Area Network
   < MAN
 Microprocessor without Interlocked Pipelined Stages
-  < MIPS
+  << MIPS
 Microsoft (notable companies
   < MS
   < MSFT
@@ -127,7 +133,7 @@ Power Supply Unit
   < PSU
 Processor 
 Pulse Width Modulation (Concept / Process)
-  < PWM
+  << PWM
 Qemu
 Qualcomm
 RISC V
@@ -144,23 +150,27 @@ Reduced Instruction Set Computer
 Request for Comment  (docs)
   < RFC
 Secure Shell (Protocol)
-  < SSH
+  << SSH
 Samsung (company)
 Scalable Processor Architecture
-  < SPARC
+  << SPARC
 Seagate (Company)
 Serial
 Sony (Company)
 
 Steve Jobs (person)
 Taiwan Semiconductor Manufacturing Company (company)
+  < TSMC
 Trusted Platform Module
-USB
+  < TPM
+Universal Serial Bus
+  << USB
 Ubuntu (Operating System)
 Universal Plug And Play
   < uPnP
 Usb C
-VIM
+VI Improved
+  < Vim
 Virtual Machine
   < VM
 Virtualization
@@ -178,6 +188,7 @@ Vulkan
 Wayland (protocol)
 WebAssembly (programming language)
 Wide Area Network (Concept)
+  < WAN
 Windows (Operating System
 X11 (Protocol)
 clang
@@ -204,7 +215,6 @@ port
 root
 rootkit
 sine wave
-v12n
 vi
 x64
 x86
@@ -218,10 +228,10 @@ maven (code repository)
 gradle
 SDKMan
 Dynamic Host Configuration Protocol
-  < DHCP
+  << DHCP
 User Datagram Protocol
-  < UDP
+  << UDP
 Quick UDP Internet Connections
-  < QUIC
+  << QUIC
 Transmission Control Protocol
-  < TCP
+  << TCP
