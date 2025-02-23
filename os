@@ -25,3 +25,5 @@ Alpine Linux
 Arch Linux
 Kali Linux
 Solaris
+Unix
+Steam OS
