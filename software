@@ -55,6 +55,9 @@ Notepad++
 gedit
 Atom
 Zed
+XCode
+IntelliJ IDEA
+Eclipse
 
 GhosTTY
 PuTTY
@@ -90,6 +93,11 @@ Direct2D
 WebView
 
 gradle
+llvm
+ld
+
+sdkman
+maven
 
 
 C
@@ -104,3 +112,6 @@ ECMAScript
 debugger
 compiler
 assembler
+
+
+fastboot
