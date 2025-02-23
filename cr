@@ -6,3 +6,5 @@ commit
 pull
 push
 fetch
+merge
+diff
