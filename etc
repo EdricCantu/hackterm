@@ -143,9 +143,16 @@ Microprocessor without interlocked pipeline stages
   << MIPS
 Scalable Processor Architecture
   << SPARC
+ARM
+armhf
+arm32
+arm64
+aarch64 (somehow different than arm64
+i386
+amd64
+x86_64
 
 Artificial Intelligence
-
 Processor
 Serial
 Bus
@@ -162,3 +169,5 @@ Objective C
 Optical Media
 Flash Media
 Magnetic Media
+
+processor
