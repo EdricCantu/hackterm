@@ -1,8 +1,10 @@
 protocols, processes, concepts
 
 Vulkan
+CUDA
 OpenGL
 Metal (Vulkan Wrapper)
+
 Bare Metal
 Hot Plugging
 Pulse Width Modulation
@@ -40,6 +42,7 @@ User Interface
   < UI
 User Experience
   < UX
+
 End of Life
   < EOL
 End of File
@@ -49,6 +52,7 @@ Application Programming Interface
   < API
 REST
 OpenRESTy
+
 Unix
 Linux
 Linux Distribution
