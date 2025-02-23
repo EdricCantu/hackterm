@@ -1,7 +1,12 @@
+
+
 Qemu
 GNU Debugger
 Virtualbox
 VMWare
+Android Studio
+Android Debug Bridge
+
 Proton
 Wine
 Windows Subsystem for Linux
@@ -55,3 +60,33 @@ GhosTTY
 PuTTY
 Warp
 CMD
+
+Node.js
+  < Node
+  < Nodejs
+Python
+  < Py
+
+Material
+Flutter
+
+Microsoft Visual C++
+
+Javascript
+TypeScript
+Deno.js
+
+Dandified Yum
+  < DNF
+yum
+
+DXVK
+DirectX
+Direct3D
+Direct2D
+.NET
+.NET ASP
+
+WebView
+
+gradle
