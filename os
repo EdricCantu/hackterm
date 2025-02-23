@@ -24,3 +24,4 @@ Linux Mint
 Alpine Linux
 Arch Linux
 Kali Linux
+Solaris
