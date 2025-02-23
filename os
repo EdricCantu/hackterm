@@ -17,6 +17,8 @@ Elementary OS
 Pop! OS
 Zorin OS
 RedHat Enterprise Linux
+  < RHEL
+  < Redhat Linux
 Fedora
 Linux Mint
 Alpine Linux
