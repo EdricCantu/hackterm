@@ -83,7 +83,6 @@ Windows PE
 Linux ELF
 BIOS
 UEFI
-GPT Partition Table
 
 low level programming
 high level programming
@@ -99,9 +98,11 @@ Internet Protocol
 Internet Protocol Address
   < IP Adress
   < IP
-Media Access Control
+Medium Access Control
   < MAC
-Media Access Control Address
+Logical Link Control
+
+Medium Access Control Address
   < MAC Address
   < MAC
 Torrent
@@ -111,11 +112,10 @@ Transmission Control Protocol
   < TCP
 Quick UDP Internet Connections
   < QUIC
-Dynamic Host Configuration  Protocol
+Dynamic Host Configuration Protocol
   < DHCP
 Proxy
 Name server
-Registrar
 Domain Name
 Dop Level Domaim
 Content Delivery Network
@@ -143,31 +143,14 @@ Computer Science
 Assembly
 Plug and Play
 Unviversal Plug and Play
-Microprocessor without interlocked pipeline stages
-  << MIPS
-Scalable Processor Architecture
-  << SPARC
-ARM
-armhf
-arm32
-arm64
-aarch64 (somehow different than arm64
-i386
-amd64
-x86_64
 
 Artificial Intelligence
 Processor
-Serial
-Bus
 128 bit
 64 bit
 32 bit
 16 bit
 8 bit
-x32
-x64
-x86
 Objective C
 
 Optical Media
